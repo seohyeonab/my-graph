@@ -1,1 +1,3 @@
-# my-graph
+streamlit
+pandas
+plotly
